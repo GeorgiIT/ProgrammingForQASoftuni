@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ForLoopsSimpleLab/1.0.0": {
+        "runtime": {
+          "ForLoopsSimpleLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForLoopsSimpleLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\bin\Debug\net7.0\ForLoopsSimpleLab.exe
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\bin\Debug\net7.0\ForLoopsSimpleLab.deps.json
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\bin\Debug\net7.0\ForLoopsSimpleLab.runtimeconfig.json
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\bin\Debug\net7.0\ForLoopsSimpleLab.dll
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\bin\Debug\net7.0\ForLoopsSimpleLab.pdb
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ForLoopsSimpleLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ForLoopsSimpleLab.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ForLoopsSimpleLab.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ForLoopsSimpleLab.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ForLoopsSimpleLab.dll
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\refint\ForLoopsSimpleLab.dll
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ForLoopsSimpleLab.pdb
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ForLoopsSimpleLab.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\лични\QA\ProgrammingForQA\ForLoopsSimpleLab\obj\Debug\net7.0\ref\ForLoopsSimpleLab.dll
