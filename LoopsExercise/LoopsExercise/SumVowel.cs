@@ -2,7 +2,7 @@
 
 class SumVowel
 {
-    static void Main(string[] args)
+    static void Main_(string[] args)
     {
 
         int a = 1;

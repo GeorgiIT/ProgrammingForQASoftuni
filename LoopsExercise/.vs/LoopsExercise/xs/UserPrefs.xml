@@ -1,20 +1,25 @@
 ﻿<Properties StartupConfiguration="{95805B61-02AE-4372-A383-9FDD8748322B}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoopsExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopsExercise/AccountBalance.cs">
+    <Files>
+      <File FileName="LoopsExercise/SumVowel.cs" Line="5" Column="22" />
+      <File FileName="LoopsExercise/SumVowel (copy).cs" Line="7" Column="22" />
+      <File FileName="LoopsExercise/Devision (copy).cs" Line="5" Column="22" />
+      <File FileName="LoopsExercise/SpecialNumber.cs" Line="24" Column="22" />
+      <File FileName="LoopsExercise/SpecialBonus (copy).cs" Line="30" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/LoopsExercise/LoopsExercise/PowerOfNum.cs" relfile="LoopsExercise/PowerOfNum.cs" line="11" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="LoopsExercise" expanded="True" />
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.LoopsExercise PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
