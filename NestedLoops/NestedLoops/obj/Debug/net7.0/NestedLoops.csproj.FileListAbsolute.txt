@@ -1,0 +1,15 @@
+/Users/georgi/Projects/NestedLoops/NestedLoops/bin/Debug/net7.0/NestedLoops
+/Users/georgi/Projects/NestedLoops/NestedLoops/bin/Debug/net7.0/NestedLoops.deps.json
+/Users/georgi/Projects/NestedLoops/NestedLoops/bin/Debug/net7.0/NestedLoops.runtimeconfig.json
+/Users/georgi/Projects/NestedLoops/NestedLoops/bin/Debug/net7.0/NestedLoops.dll
+/Users/georgi/Projects/NestedLoops/NestedLoops/bin/Debug/net7.0/NestedLoops.pdb
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.csproj.AssemblyReference.cache
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.AssemblyInfoInputs.cache
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.AssemblyInfo.cs
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.csproj.CoreCompileInputs.cache
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.dll
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/refint/NestedLoops.dll
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.pdb
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/NestedLoops.genruntimeconfig.cache
+/Users/georgi/Projects/NestedLoops/NestedLoops/obj/Debug/net7.0/ref/NestedLoops.dll
