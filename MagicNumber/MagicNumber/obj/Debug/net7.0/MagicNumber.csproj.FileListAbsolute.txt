@@ -1,0 +1,15 @@
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.csproj.AssemblyReference.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.AssemblyInfoInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.AssemblyInfo.cs
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.csproj.CoreCompileInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/bin/Debug/net7.0/MagicNumber
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/bin/Debug/net7.0/MagicNumber.deps.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/bin/Debug/net7.0/MagicNumber.runtimeconfig.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/bin/Debug/net7.0/MagicNumber.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/bin/Debug/net7.0/MagicNumber.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/refint/MagicNumber.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/MagicNumber.genruntimeconfig.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MagicNumber/MagicNumber/obj/Debug/net7.0/ref/MagicNumber.dll

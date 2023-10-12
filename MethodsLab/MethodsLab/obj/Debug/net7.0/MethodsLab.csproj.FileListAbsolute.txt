@@ -1,0 +1,15 @@
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.csproj.AssemblyReference.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.AssemblyInfoInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.AssemblyInfo.cs
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.csproj.CoreCompileInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/bin/Debug/net7.0/MethodsLab
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/bin/Debug/net7.0/MethodsLab.deps.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/bin/Debug/net7.0/MethodsLab.runtimeconfig.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/bin/Debug/net7.0/MethodsLab.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/bin/Debug/net7.0/MethodsLab.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/refint/MethodsLab.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/MethodsLab.genruntimeconfig.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/MethodsLab/MethodsLab/obj/Debug/net7.0/ref/MethodsLab.dll

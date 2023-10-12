@@ -1,0 +1,15 @@
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/bin/Debug/net7.0/UniquePINCodes
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/bin/Debug/net7.0/UniquePINCodes.deps.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/bin/Debug/net7.0/UniquePINCodes.runtimeconfig.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/bin/Debug/net7.0/UniquePINCodes.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/bin/Debug/net7.0/UniquePINCodes.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.csproj.AssemblyReference.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.AssemblyInfoInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.AssemblyInfo.cs
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.csproj.CoreCompileInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/refint/UniquePINCodes.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/UniquePINCodes.genruntimeconfig.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/UniquePINCodes/UniquePINCodes/obj/Debug/net7.0/ref/UniquePINCodes.dll

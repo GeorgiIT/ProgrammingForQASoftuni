@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AA1B51A1-FA85-4438-A1AA-9F769170C043}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HappyNumbers/Program.cs">
+    <Files>
+      <File FileName="HappyNumbers/Program.cs" Line="13" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HappyNumbers" expanded="True">
+            <Node name="HappyNumbers">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HappyNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

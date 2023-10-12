@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B6E5A93B-4581-4D72-BA88-81F0BB2C0E49}|Default">
+  <MonoDevelop.Ide.ItemProperties.LetterCombination PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LetterCombination/Program.cs">
+    <Files>
+      <File FileName="LetterCombination/Program.cs" Line="16" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LetterCombination" expanded="True">
+            <Node name="LetterCombination">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

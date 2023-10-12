@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0F4D99F9-A5AE-482A-9B81-57B852EFF1C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VowelsCounter/Program.cs">
+    <Files>
+      <File FileName="VowelsCounter/Program.cs" Line="17" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VowelsCounter" expanded="True">
+            <Node name="VowelsCounter">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VowelsCounter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

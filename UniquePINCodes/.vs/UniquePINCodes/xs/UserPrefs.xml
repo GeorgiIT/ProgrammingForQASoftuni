@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FB79915A-F125-45D1-B164-2863A8ADE073}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UniquePINCodes/Program.cs">
+    <Files>
+      <File FileName="UniquePINCodes/Program.cs" Line="21" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UniquePINCodes" expanded="True">
+            <Node name="UniquePINCodes">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UniquePINCodes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

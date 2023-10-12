@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6C014E0F-CB8B-44BA-BCF1-4B5047B193B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodsLab/Main.cs">
+    <Files>
+      <File FileName="MethodsLab/SignOfIntNumber.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodsLab" expanded="True">
+            <Node name="MethodsLab">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MethodsLab PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{93848355-384A-4039-B03A-7E7CB47E1E9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MagicNumber/Program.cs">
+    <Files>
+      <File FileName="MagicNumber/Program.cs" Line="7" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagicNumber" expanded="True">
+            <Node name="MagicNumber">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MagicNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

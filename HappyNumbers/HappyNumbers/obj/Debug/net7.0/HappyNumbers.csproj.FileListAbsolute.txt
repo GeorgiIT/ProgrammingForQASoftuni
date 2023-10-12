@@ -1,0 +1,15 @@
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/bin/Debug/net7.0/HappyNumbers
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/bin/Debug/net7.0/HappyNumbers.deps.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/bin/Debug/net7.0/HappyNumbers.runtimeconfig.json
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/bin/Debug/net7.0/HappyNumbers.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/bin/Debug/net7.0/HappyNumbers.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.csproj.AssemblyReference.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.AssemblyInfoInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.AssemblyInfo.cs
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.csproj.CoreCompileInputs.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/refint/HappyNumbers.dll
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.pdb
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/HappyNumbers.genruntimeconfig.cache
+/Users/georgi/Desktop/TrainingStuffs/ProgrammingForQASoftuni/HappyNumbers/HappyNumbers/obj/Debug/net7.0/ref/HappyNumbers.dll
