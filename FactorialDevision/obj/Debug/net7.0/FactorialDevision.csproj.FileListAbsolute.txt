@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\bin\Debug\net7.0\FactorialDevision.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\bin\Debug\net7.0\FactorialDevision.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\bin\Debug\net7.0\FactorialDevision.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\bin\Debug\net7.0\FactorialDevision.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\bin\Debug\net7.0\FactorialDevision.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\FactorialDevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\FactorialDevision.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\FactorialDevision.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\FactorialDevision.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\FactorialDevision.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\refint\FactorialDevision.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\FactorialDevision.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\FactorialDevision.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\FactorialDevision\obj\Debug\net7.0\ref\FactorialDevision.dll
