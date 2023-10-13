@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\RepeatingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\RepeatingString.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\RepeatingString.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\RepeatingString.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\bin\Debug\net7.0\RepeatingString.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\bin\Debug\net7.0\RepeatingString.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\bin\Debug\net7.0\RepeatingString.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\bin\Debug\net7.0\RepeatingString.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\bin\Debug\net7.0\RepeatingString.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\RepeatingString.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\refint\RepeatingString.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\RepeatingString.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\RepeatingString.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepeatingString\obj\Debug\net7.0\ref\RepeatingString.dll
