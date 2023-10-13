@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\bin\Debug\net7.0\LastNumberName.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\bin\Debug\net7.0\LastNumberName.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\bin\Debug\net7.0\LastNumberName.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\bin\Debug\net7.0\LastNumberName.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\bin\Debug\net7.0\LastNumberName.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\LastNumberName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\LastNumberName.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\LastNumberName.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\LastNumberName.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\LastNumberName.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\refint\LastNumberName.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\LastNumberName.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\LastNumberName.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\LastNumberName\obj\Debug\net7.0\ref\LastNumberName.dll

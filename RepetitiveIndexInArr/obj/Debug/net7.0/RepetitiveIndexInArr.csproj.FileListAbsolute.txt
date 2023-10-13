@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\bin\Debug\net7.0\RepetitiveIndexInArr.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\bin\Debug\net7.0\RepetitiveIndexInArr.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\bin\Debug\net7.0\RepetitiveIndexInArr.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\bin\Debug\net7.0\RepetitiveIndexInArr.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\bin\Debug\net7.0\RepetitiveIndexInArr.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\RepetitiveIndexInArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\RepetitiveIndexInArr.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\RepetitiveIndexInArr.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\RepetitiveIndexInArr.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\RepetitiveIndexInArr.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\refint\RepetitiveIndexInArr.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\RepetitiveIndexInArr.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\RepetitiveIndexInArr.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RepetitiveIndexInArr\obj\Debug\net7.0\ref\RepetitiveIndexInArr.dll
