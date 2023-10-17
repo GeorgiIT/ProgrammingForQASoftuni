@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\refint\EvenAndOddSubtraction.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\EvenAndOddSubtraction\obj\Debug\net7.0\ref\EvenAndOddSubtraction.dll
