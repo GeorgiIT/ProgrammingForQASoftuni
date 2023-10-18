@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\bin\Debug\net7.0\ListOfProducts.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\bin\Debug\net7.0\ListOfProducts.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\bin\Debug\net7.0\ListOfProducts.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\bin\Debug\net7.0\ListOfProducts.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\bin\Debug\net7.0\ListOfProducts.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ListOfProducts.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ListOfProducts.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\refint\ListOfProducts.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ListOfProducts.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ListOfProducts.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListOfProducts\obj\Debug\net7.0\ref\ListOfProducts.dll

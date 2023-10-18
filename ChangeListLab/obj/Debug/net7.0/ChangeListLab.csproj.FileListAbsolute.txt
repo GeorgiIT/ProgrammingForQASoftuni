@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\bin\Debug\net7.0\ChangeListLab.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\bin\Debug\net7.0\ChangeListLab.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\bin\Debug\net7.0\ChangeListLab.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\bin\Debug\net7.0\ChangeListLab.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\bin\Debug\net7.0\ChangeListLab.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ChangeListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ChangeListLab.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ChangeListLab.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ChangeListLab.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ChangeListLab.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\refint\ChangeListLab.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ChangeListLab.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ChangeListLab.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ChangeListLab\obj\Debug\net7.0\ref\ChangeListLab.dll

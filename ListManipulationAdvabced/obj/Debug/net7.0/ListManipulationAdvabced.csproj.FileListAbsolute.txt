@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\bin\Debug\net7.0\ListManipulationAdvabced.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\bin\Debug\net7.0\ListManipulationAdvabced.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\bin\Debug\net7.0\ListManipulationAdvabced.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\bin\Debug\net7.0\ListManipulationAdvabced.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\bin\Debug\net7.0\ListManipulationAdvabced.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ListManipulationAdvabced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ListManipulationAdvabced.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ListManipulationAdvabced.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ListManipulationAdvabced.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ListManipulationAdvabced.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\refint\ListManipulationAdvabced.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ListManipulationAdvabced.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ListManipulationAdvabced.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ListManipulationAdvabced\obj\Debug\net7.0\ref\ListManipulationAdvabced.dll

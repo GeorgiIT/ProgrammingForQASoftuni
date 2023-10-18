@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\bin\Debug\net7.0\RemoveNegativesAndReverseList.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\bin\Debug\net7.0\RemoveNegativesAndReverseList.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\bin\Debug\net7.0\RemoveNegativesAndReverseList.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\bin\Debug\net7.0\RemoveNegativesAndReverseList.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\bin\Debug\net7.0\RemoveNegativesAndReverseList.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\RemoveNegativesAndReverseList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\RemoveNegativesAndReverseList.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\RemoveNegativesAndReverseList.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\RemoveNegativesAndReverseList.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\RemoveNegativesAndReverseList.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\refint\RemoveNegativesAndReverseList.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\RemoveNegativesAndReverseList.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\RemoveNegativesAndReverseList.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\RemoveNegativesAndReverseList\obj\Debug\net7.0\ref\RemoveNegativesAndReverseList.dll
