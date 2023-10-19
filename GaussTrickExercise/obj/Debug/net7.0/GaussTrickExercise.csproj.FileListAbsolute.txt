@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\bin\Debug\net7.0\GaussTrickExercise.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\bin\Debug\net7.0\GaussTrickExercise.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\bin\Debug\net7.0\GaussTrickExercise.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\bin\Debug\net7.0\GaussTrickExercise.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\bin\Debug\net7.0\GaussTrickExercise.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\GaussTrickExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\GaussTrickExercise.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\GaussTrickExercise.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\GaussTrickExercise.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\GaussTrickExercise.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\refint\GaussTrickExercise.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\GaussTrickExercise.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\GaussTrickExercise.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\GaussTrickExercise\obj\Debug\net7.0\ref\GaussTrickExercise.dll

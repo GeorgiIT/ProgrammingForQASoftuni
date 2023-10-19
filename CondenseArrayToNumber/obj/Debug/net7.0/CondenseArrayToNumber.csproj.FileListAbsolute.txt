@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\bin\Debug\net7.0\CondenseArrayToNumber.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\bin\Debug\net7.0\CondenseArrayToNumber.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\bin\Debug\net7.0\CondenseArrayToNumber.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\bin\Debug\net7.0\CondenseArrayToNumber.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\bin\Debug\net7.0\CondenseArrayToNumber.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\CondenseArrayToNumber.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\refint\CondenseArrayToNumber.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\CondenseArrayToNumber.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\CondenseArrayToNumber\obj\Debug\net7.0\ref\CondenseArrayToNumber.dll
