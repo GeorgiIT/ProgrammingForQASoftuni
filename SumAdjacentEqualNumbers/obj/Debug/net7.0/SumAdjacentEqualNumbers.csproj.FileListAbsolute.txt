@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\bin\Debug\net7.0\SumAdjacentEqualNumbers.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\bin\Debug\net7.0\SumAdjacentEqualNumbers.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\bin\Debug\net7.0\SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\bin\Debug\net7.0\SumAdjacentEqualNumbers.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\bin\Debug\net7.0\SumAdjacentEqualNumbers.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\SumAdjacentEqualNumbers.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\refint\SumAdjacentEqualNumbers.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\SumAdjacentEqualNumbers.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumAdjacentEqualNumbers\obj\Debug\net7.0\ref\SumAdjacentEqualNumbers.dll

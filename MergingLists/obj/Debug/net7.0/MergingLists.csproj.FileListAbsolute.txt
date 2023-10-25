@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\bin\Debug\net7.0\MergingLists.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\bin\Debug\net7.0\MergingLists.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\bin\Debug\net7.0\MergingLists.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\bin\Debug\net7.0\MergingLists.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\bin\Debug\net7.0\MergingLists.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\MergingLists.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\MergingLists.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\MergingLists.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\refint\MergingLists.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\MergingLists.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\MergingLists.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MergingLists\obj\Debug\net7.0\ref\MergingLists.dll

@@ -11,8 +11,7 @@ while (numbers.Count > 1)
     {
         condensedNumbers.Add(numbers[i] + numbers[i + 1]);
     }
-
     numbers = condensedNumbers;
 }
 
-Console.WriteLine("Condensed result: " + numbers[0]);
+Console.WriteLine(numbers[0]);
