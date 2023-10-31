@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\bin\Debug\net7.0\SumFactorialEvenDigits.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\bin\Debug\net7.0\SumFactorialEvenDigits.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\bin\Debug\net7.0\SumFactorialEvenDigits.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\bin\Debug\net7.0\SumFactorialEvenDigits.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\bin\Debug\net7.0\SumFactorialEvenDigits.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\SumFactorialEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\SumFactorialEvenDigits.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\SumFactorialEvenDigits.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\SumFactorialEvenDigits.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\SumFactorialEvenDigits.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\refint\SumFactorialEvenDigits.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\SumFactorialEvenDigits.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\SumFactorialEvenDigits.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\SumFactorialEvenDigits\obj\Debug\net7.0\ref\SumFactorialEvenDigits.dll
