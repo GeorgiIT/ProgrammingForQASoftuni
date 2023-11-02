@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\bin\Debug\net7.0\MagicNumbers.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\bin\Debug\net7.0\MagicNumbers.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\bin\Debug\net7.0\MagicNumbers.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\bin\Debug\net7.0\MagicNumbers.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\bin\Debug\net7.0\MagicNumbers.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\MagicNumbers.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\MagicNumbers.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\refint\MagicNumbers.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\MagicNumbers.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\MagicNumbers.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MagicNumbers\obj\Debug\net7.0\ref\MagicNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\bin\Debug\net7.0\MinMaxValues.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\bin\Debug\net7.0\MinMaxValues.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\bin\Debug\net7.0\MinMaxValues.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\bin\Debug\net7.0\MinMaxValues.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\bin\Debug\net7.0\MinMaxValues.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\MinMaxValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\MinMaxValues.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\MinMaxValues.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\MinMaxValues.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\MinMaxValues.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\refint\MinMaxValues.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\MinMaxValues.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\MinMaxValues.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\MinMaxValues\obj\Debug\net7.0\ref\MinMaxValues.dll
