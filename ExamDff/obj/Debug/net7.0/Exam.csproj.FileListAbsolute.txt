@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\bin\Debug\net7.0\Exam.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\bin\Debug\net7.0\Exam.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\bin\Debug\net7.0\Exam.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\bin\Debug\net7.0\Exam.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\bin\Debug\net7.0\Exam.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\Exam.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\refint\Exam.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\Exam.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\Exam.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\Exam\obj\Debug\net7.0\ref\Exam.dll
