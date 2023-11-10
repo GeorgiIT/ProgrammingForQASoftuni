@@ -25,7 +25,7 @@ public class MatchDatesTests
     public void Test_Match_NoMatch_ReturnsEmptyString()
     {
         // Arrange
-        string input = "31dec22";
+        string input = "31!dec!22";
         string expected = "";
 
         // Act

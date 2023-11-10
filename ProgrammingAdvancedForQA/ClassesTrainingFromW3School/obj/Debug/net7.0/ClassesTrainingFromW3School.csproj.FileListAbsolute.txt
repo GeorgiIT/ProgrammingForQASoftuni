@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\bin\Debug\net7.0\ClassesTrainingFromW3School.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\bin\Debug\net7.0\ClassesTrainingFromW3School.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\bin\Debug\net7.0\ClassesTrainingFromW3School.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\bin\Debug\net7.0\ClassesTrainingFromW3School.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\bin\Debug\net7.0\ClassesTrainingFromW3School.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ClassesTrainingFromW3School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ClassesTrainingFromW3School.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ClassesTrainingFromW3School.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ClassesTrainingFromW3School.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ClassesTrainingFromW3School.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\refint\ClassesTrainingFromW3School.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ClassesTrainingFromW3School.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ClassesTrainingFromW3School.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ClassesTrainingFromW3School\obj\Debug\net7.0\ref\ClassesTrainingFromW3School.dll
