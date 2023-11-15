@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{71C41C43-F42E-4028-8A38-6D9F05BA9949}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MinerTask FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DictionariesLambdaLINQ__Exercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Orders/Program.cs">
+    <Files>
+      <File FileName="DictionariesLambdaLINQ_Exercise/Program.cs" Line="13" Column="2" />
+      <File FileName="MinerTask/Program.cs" Line="7" Column="15" />
+      <File FileName="Orders/Program.cs" Line="20" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DictionariesLambdaLINQ_Exercise" expanded="True">
+            <Node name="DictionariesLambdaLINQ_Exercise" expanded="True" />
+            <Node name="MinerTask" expanded="True" />
+            <Node name="Orders" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Orders FirstBuild="True" />
+</Properties>

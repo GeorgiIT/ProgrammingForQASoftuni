@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{040BCEF0-762D-4B70-93AA-C30B7821A3B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoftUniParking/Program.cs">
+    <Files>
+      <File FileName="SoftUniParking/Program.cs" Line="16" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoftUniParking" expanded="True">
+            <Node name="SoftUniParking">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SoftUniParking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
