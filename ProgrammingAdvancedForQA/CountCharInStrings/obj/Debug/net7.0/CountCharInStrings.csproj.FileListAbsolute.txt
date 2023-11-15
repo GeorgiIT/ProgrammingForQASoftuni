@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\bin\Debug\net7.0\CountCharInStrings.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\bin\Debug\net7.0\CountCharInStrings.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\bin\Debug\net7.0\CountCharInStrings.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\bin\Debug\net7.0\CountCharInStrings.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\bin\Debug\net7.0\CountCharInStrings.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\CountCharInStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\CountCharInStrings.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\CountCharInStrings.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\CountCharInStrings.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\CountCharInStrings.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\refint\CountCharInStrings.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\CountCharInStrings.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\CountCharInStrings.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\CountCharInStrings\obj\Debug\net7.0\ref\CountCharInStrings.dll

@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\bin\Debug\net7.0\OddOccurrences.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\bin\Debug\net7.0\OddOccurrences.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\bin\Debug\net7.0\OddOccurrences.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\bin\Debug\net7.0\OddOccurrences.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\bin\Debug\net7.0\OddOccurrences.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\OddOccurrences.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\OddOccurrences.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\refint\OddOccurrences.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\OddOccurrences.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\OddOccurrences.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\OddOccurrences\obj\Debug\net7.0\ref\OddOccurrences.dll

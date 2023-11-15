@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\bin\Debug\net7.0\StudentAcademy1.1.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\bin\Debug\net7.0\StudentAcademy1.1.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\bin\Debug\net7.0\StudentAcademy1.1.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\bin\Debug\net7.0\StudentAcademy1.1.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\bin\Debug\net7.0\StudentAcademy1.1.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\StudentAcademy1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\StudentAcademy1.1.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\StudentAcademy1.1.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\StudentAcademy1.1.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\StudentAcademy1.1.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\refint\StudentAcademy1.1.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\StudentAcademy1.1.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\StudentAcademy1.1.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\StudentAcademy1.1\obj\Debug\net7.0\ref\StudentAcademy1.1.dll

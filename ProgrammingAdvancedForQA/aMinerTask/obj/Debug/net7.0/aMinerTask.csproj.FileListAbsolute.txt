@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\bin\Debug\net7.0\aMinerTask.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\bin\Debug\net7.0\aMinerTask.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\bin\Debug\net7.0\aMinerTask.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\bin\Debug\net7.0\aMinerTask.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\bin\Debug\net7.0\aMinerTask.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\aMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\aMinerTask.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\aMinerTask.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\aMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\aMinerTask.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\refint\aMinerTask.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\aMinerTask.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\aMinerTask.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\aMinerTask\obj\Debug\net7.0\ref\aMinerTask.dll
