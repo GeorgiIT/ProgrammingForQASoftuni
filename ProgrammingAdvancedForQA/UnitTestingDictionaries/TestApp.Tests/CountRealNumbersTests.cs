@@ -46,11 +46,11 @@ public class CountRealNumbersTests
     [Test]
     public void Test_Count_WithNegativeNumbers_ShouldReturnCountString()
     {
-        int[] input = { 2, 5, 2, -8, 1 };
+        int[] input = { -2, -2, -8, 5 };
 
         // Act
         string result = CountRealNumbers.Count(input);
-        string expected = "-8 -> 1\r\n1 -> 1\r\n2 -> 2\r\n5 -> 1";
+        string expected = "-8 -> 1\r\n-2 -> 2\r\n5 -> 1";
 
         Assert.That(result, Is.EqualTo(expected));
     }
@@ -58,11 +58,12 @@ public class CountRealNumbersTests
     [Test]
     public void Test_Count_WithZero_ShouldReturnCountString()
     {
-        int[] input = { 2, 5, 2, -8, 1, 0 };
+
+        int[] input = { 0, 0, 2 };
 
         // Act
         string result = CountRealNumbers.Count(input);
-        string expected = "-8 -> 1\r\n0 -> 1\r\n1 -> 1\r\n2 -> 2\r\n5 -> 1";
+        string expected = "0 -> 2\r\n2 -> 1";
 
         Assert.That(result, Is.EqualTo(expected));
     }

@@ -1,38 +1,51 @@
 ﻿using NUnit.Framework;
-
 using System;
 
-namespace TestApp.Tests;
-
-public class PlantsTests
+namespace TestApp.Tests
 {
-    [Test]
-    public void Test_GetFastestGrowing_WithEmptyArray_ShouldReturnEmptyString()
+    public class PlantsTests
     {
-        // TODO: finish test
-    }
+        [Test]
+        public void Test_GetFastestGrowing_WithEmptyArray_ShouldReturnEmptyString()
+        {
+            string[] input = Array.Empty<string>();
 
-    // TODO: finish test
-    [Test]
-    public void Test_GetFastestGrowing_WithSinglePlant_ShouldReturnPlant()
-    {
-        // Arrange
+            string result = Plants.GetFastestGrowing(input);
 
-        // Act
-        //string result = Plants.GetFastestGrowing(plants);
+            Assert.That(result, Is.Empty);
+        }
 
-        // Assert
-    }
+        [Test]
+        public void Test_GetFastestGrowing_WithSinglePlant_ShouldReturnPlant()
+        {
+            string[] input = { "one" };
 
-    [Test]
-    public void Test_GetFastestGrowing_WithMultiplePlants_ShouldReturnGroupedPlants()
-    {
-        // TODO: finish test
-    }
+            string result = Plants.GetFastestGrowing(input);
+            string expected = "Plants with 3 letters:\r\none";
 
-    [Test]
-    public void Test_GetFastestGrowing_WithMixedCasePlants_ShouldBeCaseInsensitive()
-    {
-        // TODO: finish test
+            Assert.That(result, Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void Test_GetFastestGrowing_WithMultiplePlants_ShouldReturnGroupedPlants()
+        {
+            string[] input = { "one", "two", "three", "four" };
+
+            string result = Plants.GetFastestGrowing(input);
+            string expected = "Plants with 3 letters:\r\none\r\ntwo\r\nPlants with 4 letters:\r\nfour\r\nPlants with 5 letters:\r\nthree";
+
+            Assert.That(result, Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void Test_GetFastestGrowing_WithMixedCasePlants_ShouldBeCaseInsensitive()
+        {
+            string[] input = { "one", "Two", "Three", "four" };
+
+            string result = Plants.GetFastestGrowing(input);
+            string expected = "Plants with 3 letters:\r\none\r\nTwo\r\nPlants with 4 letters:\r\nfour\r\nPlants with 5 letters:\r\nThree";
+
+            Assert.That(result, Is.EqualTo(expected));
+        }
     }
 }

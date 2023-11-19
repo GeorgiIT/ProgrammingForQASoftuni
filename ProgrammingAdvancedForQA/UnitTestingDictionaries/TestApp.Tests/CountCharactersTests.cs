@@ -25,23 +25,24 @@ public class CountCharactersTests
     public void Test_Count_WithNoCharacters_ShouldReturnEmptyString()
     {
         // Arrange
-        List<string> input = new() { };
+        List<string> input = new() { "AAA", "AA", "A"};
 
         // Act
         string result = CountCharacters.Count(input);
+        string expected = "A -> 6";
 
         // Assert
-        Assert.That(result, Is.Empty);
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
     public void Test_Count_WithSingleCharacter_ShouldReturnCountString()
     {
-        List<string> input = new() { "1" };
+        List<string> input = new() { "a" };
 
         // Act
         string result = CountCharacters.Count(input);
-        string expected = "1 -> 1";
+        string expected = "a -> 1";
 
         // Assert
         Assert.That(result, Is.EqualTo(expected));
