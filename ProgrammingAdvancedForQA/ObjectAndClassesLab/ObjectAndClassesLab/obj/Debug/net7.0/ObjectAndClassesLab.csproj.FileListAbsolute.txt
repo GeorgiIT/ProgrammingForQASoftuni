@@ -1,0 +1,14 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\bin\Debug\net7.0\ObjectAndClassesLab.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\bin\Debug\net7.0\ObjectAndClassesLab.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\bin\Debug\net7.0\ObjectAndClassesLab.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\bin\Debug\net7.0\ObjectAndClassesLab.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\bin\Debug\net7.0\ObjectAndClassesLab.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ObjectAndClassesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ObjectAndClassesLab.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ObjectAndClassesLab.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ObjectAndClassesLab.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ObjectAndClassesLab.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\refint\ObjectAndClassesLab.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ObjectAndClassesLab.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ObjectAndClassesLab.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\ObjectAndClassesLab\ObjectAndClassesLab\obj\Debug\net7.0\ref\ObjectAndClassesLab.dll
