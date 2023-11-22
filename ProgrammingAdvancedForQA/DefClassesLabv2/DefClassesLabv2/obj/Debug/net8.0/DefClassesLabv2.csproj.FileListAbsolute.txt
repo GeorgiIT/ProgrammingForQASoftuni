@@ -1,0 +1,15 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\bin\Debug\net8.0\DefClassesLabv2.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\bin\Debug\net8.0\DefClassesLabv2.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\bin\Debug\net8.0\DefClassesLabv2.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\bin\Debug\net8.0\DefClassesLabv2.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\bin\Debug\net8.0\DefClassesLabv2.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.sourcelink.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\refint\DefClassesLabv2.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\DefClassesLabv2.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\DefClassesLabv2\DefClassesLabv2\obj\Debug\net8.0\ref\DefClassesLabv2.dll
