@@ -24,7 +24,7 @@ namespace CarManufacturer
         }
         public void WhoAmI()
         {
-            Console.WriteLine($"Make: {this.Make}\r\nModel: {this.Model}\r\nYear: {this.Year}\r\nFuel: {this.FuelQuantity:F2}");
+            Console.WriteLine($"Make: {Make}\r\nModel: {Model}\r\nYear: {Year}\r\nFuel: {FuelQuantity:F2}");
         }
 
 
