@@ -19,6 +19,12 @@ namespace CarManufacturer
 
             car.Drive(2000);
             car.WhoAmI();
+
+            Car secondCar = new Car("Audi", "A3", 2000);
+
+            Car thirdCar = new Car("BMW", "320", 2004, 25.5, 10.2);
+
+            
         }
     }
 }

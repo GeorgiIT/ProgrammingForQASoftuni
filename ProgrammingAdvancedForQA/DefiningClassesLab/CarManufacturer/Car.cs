@@ -15,6 +15,23 @@ namespace CarManufacturer
         public double FuelQuantity { get; set; }
         public double FuelConsumation { get; set; }
 
+        public Car() 
+        {
+        }
+        public Car(string make, string model, int year) 
+        {
+            this.Make = make;
+            this.Model = model;
+            this.Year = year;
+        }
+
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumation) 
+            : this(make, model, year) 
+        {
+            this.FuelQuantity = fuelQuantity;
+            this.FuelConsumation = fuelConsumation;
+        }
+
         public void Drive(double distance)
         {
             if (FuelConsumation - distance * FuelConsumation < 0)
