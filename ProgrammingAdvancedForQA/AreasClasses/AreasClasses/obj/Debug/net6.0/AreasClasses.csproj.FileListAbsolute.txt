@@ -1,0 +1,15 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\bin\Debug\net6.0\AreasClasses.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\bin\Debug\net6.0\AreasClasses.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\bin\Debug\net6.0\AreasClasses.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\bin\Debug\net6.0\AreasClasses.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\bin\Debug\net6.0\AreasClasses.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.sourcelink.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\refint\AreasClasses.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\AreasClasses.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\AreasClasses\AreasClasses\obj\Debug\net6.0\ref\AreasClasses.dll
