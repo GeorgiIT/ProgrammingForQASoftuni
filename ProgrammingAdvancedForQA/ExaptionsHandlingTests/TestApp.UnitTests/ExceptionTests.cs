@@ -1,7 +1,9 @@
+using Newtonsoft.Json.Linq;
 using NUnit.Framework;
 
 using System;
 using System.Collections.Generic;
+using System.Reflection;
 
 namespace TestApp.UnitTests;
 
@@ -79,7 +81,13 @@ public class ExceptionTests
     [Test]
     public void Test_GetElement_ValidIndex_ReturnsElement()
     {
-        // TODO: finish test
+        int[] input = {1, 2, 3, 4, 5};
+        int index = 3;
+
+        int result = this._exceptions.IndexOutOfRangeGetElement(input, index);
+
+        Assert.That(result , Is.EqualTo(4));
+
     }
 
     // TODO: finish test
@@ -87,9 +95,11 @@ public class ExceptionTests
     public void Test_GetElement_IndexLessThanZero_ThrowsIndexOutOfRangeException()
     {
         // Arrange
+        int[] input = { 1, 2, 3, 4, 5 };
+        int index = -2;
 
         // Act & Assert
-        //Assert.That(() => this._exceptions.IndexOutOfRangeGetElement(array, index), Throws.InstanceOf<IndexOutOfRangeException>());
+        Assert.That(() => this._exceptions.IndexOutOfRangeGetElement(input, index), Throws.InstanceOf<IndexOutOfRangeException>());
     }
 
     // TODO: finish test
@@ -101,24 +111,33 @@ public class ExceptionTests
         int index = array.Length;
 
         // Act & Assert
+        Assert.That(() => this._exceptions.IndexOutOfRangeGetElement(array, index), Throws.InstanceOf<IndexOutOfRangeException>());
     }
 
     [Test]
     public void Test_GetElement_IndexGreaterThanArrayLength_ThrowsIndexOutOfRangeException()
     {
-        // TODO: finish test
+        int[] array = { 10, 20, 30, 40, 50 };
+        int index = 8;
+
+        // Act & Assert
+        Assert.That(() => this._exceptions.IndexOutOfRangeGetElement(array, index), Throws.InstanceOf<IndexOutOfRangeException>());
     }
 
     [Test]
     public void Test_PerformSecureOperation_UserLoggedIn_ReturnsUserLoggedInMessage()
     {
-        // TODO: finish test
+        bool input = true;
+
+        Assert.That(() => this._exceptions.InvalidOperationPerformSecureOperation(input), Is.EqualTo("User logged in."));
     }
 
     [Test]
     public void Test_PerformSecureOperation_UserNotLoggedIn_ThrowsInvalidOperationException()
     {
-        // TODO: finish test
+        bool input = false;
+
+        Assert.That(() => this._exceptions.InvalidOperationPerformSecureOperation(input), Throws.InstanceOf<InvalidOperationException>());
     }
 
     [Test]
@@ -177,66 +196,117 @@ public class ExceptionTests
     [Test]
     public void Test_AddNumbers_NoOverflow_ReturnsSum()
     {
-        // TODO: finish test
+        int a = 10;
+        int b = 20;
+
+        int result = this._exceptions.OverflowAddNumbers(a, b);
+
+        Assert.That(result, Is.EqualTo(30));
     }
 
     [Test]
     public void Test_AddNumbers_PositiveOverflow_ThrowsOverflowException()
     {
-        // TODO: finish test
+        var a = int.MaxValue;
+        var b = 1;
+
+        Assert.That(() => this._exceptions.OverflowAddNumbers(a, b), Throws.InstanceOf<OverflowException>());
     }
 
     [Test]
     public void Test_AddNumbers_NegativeOverflow_ThrowsOverflowException()
     {
-        // TODO: finish test
+        var a = int.MinValue;
+        var b = -2;
+
+        Assert.That(() => this._exceptions.OverflowAddNumbers(a, b), Throws.InstanceOf<OverflowException>());
     }
 
     [Test]
     public void Test_DivideNumbers_ValidDivision_ReturnsQuotient()
     {
-        // TODO: finish test
+        int divident = 10;
+        int divisor = 2;
+
+        Assert.That(() => this._exceptions.DivideByZeroDivideNumbers(divident, divisor), Is.EqualTo(5));
     }
 
     [Test]
     public void Test_DivideNumbers_DivideByZero_ThrowsDivideByZeroException()
     {
-        // TODO: finish test
+        int divident = 10;
+        int divisor = 0;
+
+        Assert.That(() => this._exceptions.DivideByZeroDivideNumbers(divident, divisor), Throws.InstanceOf<DivideByZeroException>());
     }
 
     [Test]
     public void Test_SumCollectionElements_ValidCollectionAndIndex_ReturnsSum()
     {
-        // TODO: finish test
+        int[] arr = {1, 2, 3, 4, 5};
+        var index = 2;
+
+        var result = this._exceptions.SumCollectionElements(arr, index);
+        
+        Assert.That(result, Is.EqualTo(15));
     }
 
     [Test]
     public void Test_SumCollectionElements_NullCollection_ThrowsArgumentNullException()
     {
-        // TODO: finish test
+        int[] arr = null;
+        var index = 2;
+
+        Assert.That(() => this._exceptions.SumCollectionElements(arr, index), Throws.InstanceOf<ArgumentNullException>());
     }
 
     [Test]
     public void Test_SumCollectionElements_IndexOutOfRange_ThrowsIndexOutOfRangeException()
     {
-        // TODO: finish test
+        int[] arr = { 1, 2, 3, 4, 5 };
+        var index = 12;
+
+        Assert.That(() => this._exceptions.SumCollectionElements(arr, index), Throws.InstanceOf<IndexOutOfRangeException>());
     }
 
     [Test]
     public void Test_GetElementAsNumber_ValidKey_ReturnsParsedNumber()
     {
-        // TODO: finish test
+        Dictionary<string, string> elements = new()
+        {
+            { "BG", "20" },
+            { "UK", "30" }
+        };
+        string key = "BG";
+
+        int result = this._exceptions.GetElementAsNumber(elements, key);
+
+        Assert.That(result, Is.EqualTo(20));
     }
 
     [Test]
     public void Test_GetElementAsNumber_KeyNotFound_ThrowsKeyNotFoundException()
     {
-        // TODO: finish test
+        Dictionary<string, string> elements = new()
+        {
+            { "BG", "20" },
+            { "UK", "30" }
+        };
+        string key = "USA";
+
+        Assert.That(() => this._exceptions.GetElementAsNumber(elements, key), Throws.InstanceOf<KeyNotFoundException>());
     }
 
     [Test]
     public void Test_GetElementAsNumber_InvalidFormat_ThrowsFormatException()
     {
-        // TODO: finish test
+        Dictionary<string, string> elements = new()
+        {
+            { "BG", "20abv" },
+            { "UK", "30" }
+        };
+        string key = "BG";
+
+        Assert.That(() => this._exceptions.GetElementAsNumber(elements, key), Throws.InstanceOf<FormatException>());
     }
 }
