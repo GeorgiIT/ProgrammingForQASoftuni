@@ -1,0 +1,15 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.sourcelink.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\refint\BoxData.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\ref\BoxData.dll

@@ -1,0 +1,15 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.sourcelink.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\ProgrammingAdvancedForQA\13-Resources-OOP-Principles-Encapsulation-Inheritance\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll
