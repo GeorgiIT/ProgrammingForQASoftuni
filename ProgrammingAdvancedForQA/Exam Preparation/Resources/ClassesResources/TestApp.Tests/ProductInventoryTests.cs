@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using System;
 using System.Collections.Generic;
 using TestApp.Product;
 
@@ -24,37 +25,75 @@ public class ProductInventoryTests
 
         // Act
         this._inventory.AddProduct(productName, productPrice, quantity);
+        string result = this._inventory.DisplayInventory();
+
 
         // Assert
-        // Check if the product is in the inventory
-        CollectionAssert.Contains(this._inventory.Products, new { Name = productName, Price = productPrice, Quantity = quantity });
-
-        
-        Assert.AreEqual(productPrice * quantity, this._inventory.CalculateTotalValue());
+        Assert.That(result, Is.EqualTo($"Product Inventory:{Environment.NewLine}Coca cola - Price: $2.50 - Quantity: 1"));
 
     }
 
     [Test]
     public void Test_DisplayInventory_NoProducts_ReturnsEmptyString()
     {
-        // TODO: finish the test
+        // Act      
+        string result = this._inventory.DisplayInventory();
+
+        // Assert
+        Assert.That(result, Is.EqualTo("Product Inventory:"));
     }
 
     [Test]
     public void Test_DisplayInventory_WithProducts_ReturnsFormattedInventory()
     {
-        // TODO: finish the test
+        string productName = "Coca cola";
+        double productPrice = 2.50;
+        int quantity = 1;
+
+        // Act
+        this._inventory.AddProduct(productName, productPrice, quantity);
+
+        productName = "Bread";
+        productPrice = 1.10;
+        quantity = 2;
+
+        this._inventory.AddProduct(productName, productPrice, quantity);
+
+        string result = this._inventory.DisplayInventory();
+
+
+        // Assert
+        Assert.That(result, Is.EqualTo($"Product Inventory:{Environment.NewLine}Coca cola - Price: $2.50 - Quantity: 1{Environment.NewLine}Bread - Price: $1.10 - Quantity: 2"));
     }
 
     [Test]
     public void Test_CalculateTotalValue_NoProducts_ReturnsZero()
     {
-        // TODO: finish the test
+        double result = this._inventory.CalculateTotalValue();
+
+        Assert.That(result, Is.EqualTo(0));
     }
 
     [Test]
     public void Test_CalculateTotalValue_WithProducts_ReturnsTotalValue()
     {
-        // TODO: finish the test
+        string productName = "Coca cola";
+        double productPrice = 2.50;
+        int quantity = 1;
+
+        // Act
+        this._inventory.AddProduct(productName, productPrice, quantity);
+
+        productName = "Bread";
+        productPrice = 1.10;
+        quantity = 2;
+
+        this._inventory.AddProduct(productName, productPrice, quantity);
+
+        double result = this._inventory.CalculateTotalValue();
+
+
+        // Assert
+        Assert.That(result, Is.EqualTo(4.70));
     }
 }
