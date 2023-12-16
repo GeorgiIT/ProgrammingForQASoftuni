@@ -1,9 +1,4 @@
 ﻿using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StudentRegistryApp.PageObjectModel
 {
@@ -24,7 +19,7 @@ namespace StudentRegistryApp.PageObjectModel
         public IWebElement ViewStudentsPage =>
             driver.FindElement(By.CssSelector("body > a:nth-child(3)"));
 
-        public IWebElement AddStudentsPage =>
+        public IWebElement AddStudentPage =>
             driver.FindElement(By.CssSelector("body > a:nth-child(5)"));
 
         public IWebElement PageHeadingText =>

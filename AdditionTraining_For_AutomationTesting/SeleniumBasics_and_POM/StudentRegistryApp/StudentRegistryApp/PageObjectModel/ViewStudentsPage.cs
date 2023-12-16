@@ -1,9 +1,5 @@
 ﻿using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Collections.ObjectModel;
 
 namespace StudentRegistryApp.PageObjectModel
 {
@@ -16,6 +12,15 @@ namespace StudentRegistryApp.PageObjectModel
 
         public override string PageUrl =>
             "https://mvc-app-node-express--georgitodorov4.repl.co/students";
-            
+
+        public ReadOnlyCollection<IWebElement> ListItemsStudents =>
+            driver.FindElements(By.CssSelector("body > ul > li"));
+
+        public string[] GetRegisteredStudents()
+        {
+            var elementsStudents = this.ListItemsStudents.Select(s => s.Text).ToArray();
+            return elementsStudents;
+        }
+
     }
 }

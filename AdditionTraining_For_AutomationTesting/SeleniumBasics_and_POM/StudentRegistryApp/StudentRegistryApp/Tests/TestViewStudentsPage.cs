@@ -3,23 +3,30 @@ using StudentRegistryApp.PageObjectModel;
 
 namespace StudentRegistryApp.Tests
 {
-    public class TestHomePage : BaseTest
+    public class TestViewStudentPage : BaseTest
     {
-
         [Test]
-        public void Test_HomePage_TitleAndHeading()
+        public void Test_ViewStudentsPage_TitleAndHeading()
         {
-            var page = new HomePage(driver);
+            var page = new ViewStudentsPage(driver);
             page.Open();
-            page.LinkHomePage.Click();
+            page.ViewStudentsPage.Click();
 
-            Assert.That(driver.Title, Is.EqualTo("MVC Example"));
-            Assert.That(page.GetPageHeading, Is.EqualTo("Students Registry"));
+            Assert.That(driver.Title, Is.EqualTo("Students"));
+            Assert.That(page.GetPageHeading, Is.EqualTo("Registered Students"));
+            var students = page.GetRegisteredStudents();
+
+            foreach (var student in students)
+            {
+                Assert.IsTrue(student.IndexOf("(") > 0);
+                Assert.IsTrue(student.LastIndexOf(")") == student.Length - 1);
+            }
+
         }
         [Test]
-        public void Test_HomePage_Links()
+        public void Test_ViewStudentsPage_Links()
         {
-            var page = new HomePage(driver);
+            var page = new ViewStudentsPage(driver);
             page.Open();
             page.LinkHomePage.Click();
             Assert.That(new HomePage(driver).isOpen());
@@ -38,6 +45,7 @@ namespace StudentRegistryApp.Tests
             Assert.That(page.GetPageHeading, Is.EqualTo("Registered Students"));
 
         }
+
 
     }
 }
