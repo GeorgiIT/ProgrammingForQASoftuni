@@ -1,0 +1,236 @@
+{
+	"info": {
+		"_postman_id": "3e1231f3-3966-4397-b5d5-3d1245c5f3a4",
+		"name": "Postman Demo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET all books",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const books = pm.response.json();\r",
+							"\r",
+							"pm.test(\"Returned array\", function () {\r",
+							"    pm.expect(typeof(books) === \"array\"); \r",
+							"});\r",
+							"\r",
+							"pm.test(\"Returned array holds books\", function () {\r",
+							"    const book0 = books[0];\r",
+							"    pm.expect(typeof(book0) === \"object\"); \r",
+							"    pm.expect(typeof(book0.id) === \"number\"); \r",
+							"    pm.expect(typeof(book0.title) === \"string\"); \r",
+							"    pm.expect(typeof(book0.author) === \"string\"); \r",
+							"    pm.expect(typeof(book0.isbn) === \"string\"); \r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "G-Token",
+						"value": "ROM831ESV",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:3000/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET book #1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const book = pm.response.json();\r",
+							"\r",
+							"pm.test(\"Returned object is book\", function () {\r",
+							"    pm.expect(typeof(book) === \"object\"); \r",
+							"    pm.expect(typeof(book.id) === \"number\"); \r",
+							"    pm.expect(typeof(book.title) === \"string\"); \r",
+							"    pm.expect(typeof(book.author) === \"string\"); \r",
+							"    pm.expect(typeof(book.isbn) === \"string\"); \r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "G-Token",
+						"value": "ROM831ESV",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:3000/books/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"books",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const user = pm.response.json();\r",
+							"\r",
+							"pm.test(\"Id is correct\", function () {\r",
+							"    pm.expect(typeof(user.id) === \"number\"); \r",
+							"});\r",
+							"\r",
+							"pm.test(\"Last is name is correct\", function () {\r",
+							"    pm.expect(user.lastName).to.eql('Taylor'); \r",
+							"});\r",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "G-Token",
+						"value": "ROM831ESV"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\": \"taylonr@mailinator.com\",\n\t\"firstName\": \"Nate\",\n\t\"lastName\": \"Taylor\"\n}"
+				},
+				"url": {
+					"raw": "http://{{host}}/users",
+					"protocol": "http",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const user = pm.response.json();",
+							"",
+							"pm.test(\"Updated email\", function () {",
+							"    pm.expect(user.email).to.eql('taylonr@gmail.com');",
+							"});",
+							"",
+							"pm.test(\"First name unchanged\", function () {",
+							"    pm.expect(user.firstName).to.eql('Nate');",
+							"});",
+							"",
+							"pm.test(\"Last name unchanged\", function () {",
+							"    pm.expect(user.lastName).to.eql('Taylor'); ",
+							"});",
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{auth}}"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "G-Token",
+						"value": "ROM831ESV"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"email\": \"taylonr@gmail.com\"\n}"
+				},
+				"url": {
+					"raw": "http://{{host}}/users/1",
+					"protocol": "http",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"users",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

@@ -5,6 +5,7 @@ namespace StudentRegistryApp.Tests
 {
     public class TestViewStudentPage : BaseTest
     {
+        
         [Test]
         public void Test_ViewStudentsPage_TitleAndHeading()
         {
