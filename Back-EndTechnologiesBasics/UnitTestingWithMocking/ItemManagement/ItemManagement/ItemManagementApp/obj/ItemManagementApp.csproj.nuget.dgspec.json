@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementApp\\ItemManagementApp.csproj": {}
+  },
+  "projects": {
+    "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementApp\\ItemManagementApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementApp\\ItemManagementApp.csproj",
+        "projectName": "ItemManagementApp",
+        "projectPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementApp\\ItemManagementApp.csproj",
+        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
+        "outputPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementLib\\ItemManagementLib.csproj": {
+                "projectPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementLib\\ItemManagementLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementLib\\ItemManagementLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementLib\\ItemManagementLib.csproj",
+        "projectName": "ItemManagementLib",
+        "projectPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementLib\\ItemManagementLib.csproj",
+        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
+        "outputPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\ItemManagement\\ItemManagement\\ItemManagementLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
