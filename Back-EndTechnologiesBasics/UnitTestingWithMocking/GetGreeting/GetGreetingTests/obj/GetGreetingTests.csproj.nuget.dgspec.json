@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj": {}
+    "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj": {}
   },
   "projects": {
-    "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj": {
+    "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj",
+        "projectUniqueName": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj",
         "projectName": "GetGreetingTests",
-        "projectPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\obj\\",
+        "projectPath": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\GetGreetingTests.csproj",
+        "packagesPath": "C:\\Users\\vksbu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreetingTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vksbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj": {
-                "projectPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj"
+              "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj": {
+                "projectPath": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj"
               }
             }
           }
@@ -46,7 +46,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.6.0, )"
+              "version": "[17.9.0, )"
             },
             "Moq": {
               "target": "Package",
@@ -54,15 +54,17 @@
             },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.3, )"
+              "version": "[4.0.1, )"
             },
             "NUnit.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.6.1, )"
+              "version": "[4.0.1, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.2.1, )"
+              "version": "[4.5.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -85,21 +87,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj": {
+    "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj",
+        "projectUniqueName": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj",
         "projectName": "GetGreeting",
-        "projectPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "D:\\IT_Education\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\obj\\",
+        "projectPath": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\GetGreeting.csproj",
+        "packagesPath": "C:\\Users\\vksbu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\Back-EndTechnologiesBasics\\UnitTestingWithMocking\\GetGreeting\\GetGreeting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vksbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

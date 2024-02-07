@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            GreetingProvider greetingProvider = new GreetingProvider();
+            GreetingProvider greetingProvider = new GreetingProvider(new TimeProvider());
             string greeting = greetingProvider.GetGreeting();
             Console.WriteLine(greeting);
         }
     }
 
-}
+} 
