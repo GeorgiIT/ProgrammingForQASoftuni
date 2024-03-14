@@ -1,0 +1,15 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.runtimeconfig.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.sourcelink.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\refint\Eventmi.Infrastructure.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\Eventmi.Infrastructure.genruntimeconfig.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Infrastructure\obj\Debug\net6.0\ref\Eventmi.Infrastructure.dll

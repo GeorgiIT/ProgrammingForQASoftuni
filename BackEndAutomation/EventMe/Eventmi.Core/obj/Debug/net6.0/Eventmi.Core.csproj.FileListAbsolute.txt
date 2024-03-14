@@ -1,0 +1,16 @@
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.deps.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\bin\Debug\net6.0\Eventmi.Core.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\bin\Debug\net6.0\Eventmi.Infrastructure.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.AssemblyReference.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfoInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.AssemblyInfo.cs
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.CoreCompileInputs.cache
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.sourcelink.json
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.csproj.CopyComplete
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\refint\Eventmi.Core.dll
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\Eventmi.Core.pdb
+C:\Users\vksbu\Desktop\Homeworks\QA\ProgrammingForQASoftuni\BackEndAutomation\EventMe\Eventmi.Core\obj\Debug\net6.0\ref\Eventmi.Core.dll

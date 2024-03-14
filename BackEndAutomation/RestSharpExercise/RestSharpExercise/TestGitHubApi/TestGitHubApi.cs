@@ -15,12 +15,12 @@ namespace TestGitHubApi
         private GitHubApiClient client;
         private static string repo;
         private static int lastCreatedIssueNumber;
-        private static int lastCreatedCommentId;
+        private static long lastCreatedCommentId;
 
         [SetUp]
         public void Setup()
         {            
-            client = new GitHubApiClient("https://api.github.com/repos/testnakov/", "GeorgiIT", "gogod4gogod4");
+            client = new GitHubApiClient("https://api.github.com/repos/testnakov/", "GeorgiIT", "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");
             repo = "test-nakov-repo";
         }
 
@@ -132,33 +132,53 @@ namespace TestGitHubApi
         public void Test_CreateCommentOnGitHubIssue()
         {
             //Arrange
-
-            string body = "Leaving comment on random issue";
+            int issueNumber = 6293;
+            string body = "Leaving comment on my issue";
 
             //Act
-            var issue = client.CreateCommentOnGitHubIssue(repo, lastCreatedIssueNumber, body);
+
+            var comment = client.CreateCommentOnGitHubIssue(repo, issueNumber, body);
+
 
             //Assert
+            Assert.That(comment.Body, Is.EqualTo(body));
+
+            Console.WriteLine(comment.Id);
+            lastCreatedCommentId = comment.Id;
+
 
         }
 
         [Test, Order (7)]
         public void Test_GetCommentById()
         {
-            //to do
+            var comment = client.GetCommentById(repo, lastCreatedCommentId);
+
+            Assert.That(comment.Id, Is.EqualTo(lastCreatedCommentId)); 
         }
 
 
         [Test, Order (8)]
         public void Test_EditCommentOnGitHubIssue()
         {
-           //to do
+            var commentId = 1991915371;
+            string body = "new edited body";
+
+            var comment = client.EditCommentOnGitHubIssue(repo, commentId, body);
+
+            Assert.That(comment.Body, Is.EqualTo(body));
+            Assert.NotNull(comment);
+
         }
 
         [Test, Order (9)]
         public void Test_DeleteCommentOnGitHubIssue()
         {
-           // to do
+            var commentId = 1991915371;
+
+            bool comment = client.DeleteCommentOnGitHubIssue(repo, commentId);
+
+            Assert.IsTrue(comment);
         }
 
 

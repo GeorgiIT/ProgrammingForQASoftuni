@@ -77,7 +77,7 @@ namespace RestSharpServices
                 ? JsonSerializer.Deserialize<Comment>(response.Content) : null;
         }
 
-        public Comment?  GetCommentById (string repo, int commentId)
+        public Comment?  GetCommentById (string repo, long commentId)
         {
             var request = new RestRequest($"{repo}/issues/{commentId}");
             var response = client.Execute(request, Method.Get);
@@ -95,7 +95,7 @@ namespace RestSharpServices
                 ? JsonSerializer.Deserialize<Comment>(response.Content) : null;
         }
 
-        public bool DeleteCommentOnGitHubIssue(string repo, int commentId)
+        public bool DeleteCommentOnGitHubIssue(string repo, long commentId)
         {
             var request = new RestRequest($"{repo}/issues/{commentId}");
             var response = client.Execute(request, Method.Delete);

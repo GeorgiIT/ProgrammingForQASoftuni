@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cvoTCB1QkCOYqP4dO37jeZwAPd/iMKWduqrR6BSCMoU4x2R6m7O1XPsREMXFgi+Gm06Z84VO8gMo7JgmSnKPyw==",
+  "dgSpecHash": "16xOuctwvAmlSPZipHaWkSlyG9fMMfeH/QDeK6mVKR2eq34BwwcOsr8kP1163eZE2d5Z4sUVn1EZR64vSvuoWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\OneDrive\\Desktop\\IT_Education\\BackEndAutomation\\RestSharpExercise\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
+  "projectFilePath": "C:\\Users\\vksbu\\Desktop\\Homeworks\\QA\\ProgrammingForQASoftuni\\BackEndAutomation\\RestSharpExercise\\RestSharpExercise\\RestSharpServices\\RestSharpServices.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\georg\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
-    "C:\\Users\\georg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\georg\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\georg\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+    "C:\\Users\\vksbu\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\vksbu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\vksbu\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\vksbu\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
